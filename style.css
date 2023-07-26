@@ -1,0 +1,53 @@
+.form{
+    font-size: 16px;
+    font-family:sans-serif;
+    padding: 20px 10px;
+    font-weight: 100px;
+}
+
+
+
+.form{
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+    background-color:lightblue;
+    color:black;
+    background-repeat: repeat-x;
+    height: 350px;
+    width:200px;
+    text-transform: uppercase;
+    font-weight:bold;
+    margin: auto;
+    border-radius: 10%;
+    border-top: 15px 30px #ccc;
+    border:10px solid rgb(174, 0, 255);
+    margin-top: 100px;
+    
+
+
+   
+
+    
+    
+}
+#button{
+    font-size: large;
+    background-color: black;
+    color:white;
+    border-color: rgb(208, 255, 0);
+    margin:15px;
+    word-spacing: 2px;
+    line-height:20px;
+    text-align: center;
+    
+}
+#ph{
+    margin: 8px;
+}
+#username{
+    margin: 8px;
+}
+#mail{
+    margin:8px;
+}
